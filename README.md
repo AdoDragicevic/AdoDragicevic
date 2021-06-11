@@ -1,7 +1,6 @@
 - 👋 Hi, I’m AdoDragicevic
 - 👀 Interested in JS developer jobs
-- 🌱 Currently doing JS & React...
-- ✨ Easy to get along with, open-minded & in love with programming
+- 🌱 Currently learning React...
 - 📫 Contact me.. adodragicevic@gmail.com
 
 <!---
