@@ -8,7 +8,7 @@
 
 - I enjoy working on challenging projects and refactoring them in order to make the code more efficient and clean. I am open to working as a web developer in an environment that allows me to face challenges and rapidly grow.
 
-- 📫 Contact me.. adodragicevic@gmail.com
+- 📫 Contact me: adodragicevic@gmail.com
 
 ===========================
 
