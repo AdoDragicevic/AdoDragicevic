@@ -9,12 +9,6 @@
 
 ===========================
 
-📫 Contact me: adodragicevic@gmail.com
-
-Looking forward to hearing from you! 😊
-
-===========================
-
 𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
 
 ☞ Frontend
@@ -25,3 +19,10 @@ NodeJS * Express * MongoDB
 
 ☞ Other
 Data Structures and Algorithms * Git * Heroku * Project management * GDPR * Cybersecurity * Presentation, sales and debate skills * Teamwork
+
+
+===========================
+
+📫 Contact me: adodragicevic@gmail.com
+
+Looking forward to hearing from you! 😊
