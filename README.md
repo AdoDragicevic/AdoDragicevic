@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AdoDragicevic
+- 👋 I’m Ado Dragicevic
 
 - 𝙒𝙧𝙞𝙩𝙞𝙣𝙜 𝙜𝙧𝙚𝙖𝙩 𝙘𝙤𝙙𝙚 𝙞𝙨 𝙢𝙮 𝙥𝙖𝙨𝙨𝙞𝙤𝙣.
 
