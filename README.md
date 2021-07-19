@@ -11,13 +11,13 @@
 
   𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
   
-  ☞ Frontend
+  ☞ Frontend:
 React * JavaScript (ES6, ES7) * jQuery * CSS3 * Sass * Scss * Bootstrap * SemanticUI * HTML5 * WordPress
 
-  ☞ Backend
+  ☞ Backend:
 NodeJS * Express * MongoDB
 
-  ☞ Other
+  ☞ Other:
 Data Structures and Algorithms * Git * Heroku * Project management * GDPR * Cybersecurity * Presentation, sales and debate skills * Teamwork
 
 
