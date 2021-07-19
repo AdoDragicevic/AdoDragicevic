@@ -9,9 +9,9 @@
 
 ===========================
 
-     𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
-
-     ☞ Frontend
+  𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
+  
+  ☞ Frontend
 React * JavaScript (ES6, ES7) * jQuery * CSS3 * Sass * Scss * Bootstrap * SemanticUI * HTML5 * WordPress
 
   ☞ Backend
