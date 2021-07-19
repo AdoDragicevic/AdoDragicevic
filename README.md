@@ -6,9 +6,10 @@
  
 - Interested in working as a web developer, in an environment where I can make a significant contribution and continually learn.
 
-- 📫 Contact me: adodragicevic@gmail.com
 
 ===========================
+
+📫 Contact me: adodragicevic@gmail.com
 
 Looking forward to hearing from you! 😊
 
