@@ -1,28 +1,24 @@
-- 👋 I’m Ado Dragicevic
+I am passionate about writing clean code and continually growing as a developer.
 
-- 𝙒𝙧𝙞𝙩𝙞𝙣𝙜 𝙜𝙧𝙚𝙖𝙩 𝙘𝙤𝙙𝙚 𝙞𝙨 𝙢𝙮 𝙥𝙖𝙨𝙨𝙞𝙤𝙣.
-
-- I am passionate about programming, learning new technologies and refactoring code in order to make it more efficient and clean.
- 
-- Interested in working as a web developer, in an environment where I can make a significant contribution and continually learn.
-
-
-===========================
-
-  𝗠𝗬 𝗦𝗞𝗜𝗟𝗟𝗦
+==== 𝗦𝗞𝗜𝗟𝗟𝗦 ====
   
   ☞ Frontend:
-React * JavaScript (ES6, ES7) * jQuery * CSS3 * Sass * Scss * Bootstrap * SemanticUI * HTML5 * WordPress
+JavaScript (ES6, ES7) * React * Next.js * Redux * jQuery * Underscore.js * CSS3 * Sass * Scss * Bootstrap * SemanticUI * HTML5 * WordPress
 
   ☞ Backend:
 NodeJS * Express * MongoDB
 
   ☞ Other:
-Data Structures and Algorithms * Git * Heroku * Project management * GDPR * Cybersecurity * Presentation, sales and debate skills * Teamwork
+Data Structures and Algorithms * UI * UX * Graphic Design * Git * Deployment (Heroku, Netlify, Vercel...) * GDPR * Cybersecurity
 
 
-===========================
+==== 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦 ====
 
-📫 Contact me: adodragicevic@gmail.com
+As I develop new skills, I implement what I have learned by building personal projects. 
+You can find some of them here: https://github.com/AdoDragicevic
+
+==== 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ====
+
+Contact me by private message or email - adodragicevic@gmail.com
 
 Looking forward to hearing from you! 😊
