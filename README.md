@@ -13,6 +13,6 @@ Data Structures and Algorithms * UI * UX * Graphic Design * Git * Deployment (He
 
 ==== 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ====
 
-Contact me by private message or email - adodragicevic@gmail.com
+Contact me by email - adodragicevic@gmail.com
 
 Looking forward to hearing from you! 😊
