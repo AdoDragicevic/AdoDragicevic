@@ -8,23 +8,18 @@
 
 💻 Frontend: 
 
-JavaScript (ES6, ES7) * TypeScript * React (Router, Hooks, Context, Reducer) * Redux * Next.js * jQuery * Svelte * CSS3 * SASS/SCSS * Bootstrap * HTML5
+JavaScript (ES6, ES7) * TypeScript * React (Hooks & Classes, Context, Reducer, Router) * CSS3 * SASS * HTML5
 
  💻 Backend:
 
 NodeJS * Express * MongoDB
 
- 💻 Applying technologies and skills:
+ 💻 Applied technologies and skills:
 
-MERN stack (MongoDB, Express, React.js, Node.js) * Server side rendering * Client side rendering * Babel * Webpack * JSX * EJS * JSS * Material-UI * Styled components * CSS Modules * Semantic * Bulma * Axios * Underscore.js * Lodash.js * Matter.js * Vue.js * Version control (Git) * Heroku * Netlify * Vercel * CRUD * RESTful Routes * API * AJAX / AJAJ * Postman * GoormIDE * Firebase * OOP  * Algorithms and Data Structures * UX * UI * WordPress * Elementor * MAMP * Apache * Adobe Creative Cloud * Canva
+MERN stack (MongoDB, Express, React.js, Node.js) * Server side rendering * Client side rendering * Next.js * Redux * Redux Toolkit * Material-UI * Styled components * CSS Modules * Bootstrap * Semantic * Bulma * JSS * Axios * Angular * Svelte * Vue.js * jQuery * Stencil.js * Solid.js * Underscore.js * Lodash.js * Matter.js * Babel * Webpack * JSX * EJS * Version control (Git) * Functional Programming * Object Oriented Programming * Algorithms and Data Structures * Deployment (Heroku, Netlify, Vercel) * Automated testing * Unit tests * Integration tests * Jest * React Testing Library * Agile * Scrum * CRUD * RESTful Routes * API * AJAX / AJAJ * Postman * GoormIDE * Firebase * UX * UI * WordPress * Elementor * MAMP * Apache * Adobe Creative Cloud * Figma * Canva
 
  💻 Learning plans:
 
-Ionic, React Native
+React Native, Blockchain / Solidity
 
-
-==== 𝗖𝗢𝗡𝗧𝗔𝗖𝗧 ====
-
-Contact me by email - adodragicevic@gmail.com
-
-Looking forward to hearing from you! 😊
+✅ 𝑳𝒐𝒐𝒌𝒊𝒏𝒈 𝒇𝒐𝒓𝒘𝒂𝒓𝒅 𝒕𝒐 𝒉𝒆𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒎 𝒚𝒐𝒖! ✅
