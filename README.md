@@ -5,7 +5,7 @@ I am specilaized JS, TS, React and CSS. I emphasize writing clean code and becom
 
 My professional background is dynamic. 
 
-After graduating with Masters Degree in Law, I specialized in Data Protection and Cyber-Security. My career was advancing well, including working as the Data Protection Officer, and being part of the legal team in charge of negotiations between the EU and Microsoft in the European Commission, Directorate General for Informatics. 
+After graduating with Masters Degree in Law, I specialized in Data Protection and Cyber-Security. My career was advancing exceptionally well, including working as the Data Protection Officer, and being part of the legal team in charge of negotiations between the EU and Microsoft in the European Commission, Directorate General for Informatics. 
 
 However, there was a problem. I was never interested in law. Not wanting to spend 40 years, 8 h/day, working in an area I am not passionate about. So I decided to change. 
 
