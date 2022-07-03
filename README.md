@@ -1,7 +1,7 @@
-𝙄 𝙖𝙢 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙡𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙘𝙤𝙙𝙚.
+𝙄 𝙖𝙢 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙜𝙧𝙚𝙖𝙩 𝙘𝙤𝙙𝙚.
 
 
-I am specilaized JS, TS, React and CSS. I emphasize writing clean code and becoming a better developer with every project I work on. Besides trying to write code that can be easily understood and scaled, I focus on performance improvements and Big O notation. 
+I am specilaized JS, TS, React and CSS. I emphasize writing clean code and becoming a better developer with every project I work on. Besides trying to write code that can be easily understood and scaled, I focus on performance improvements, Big O notation and UX. 
 
 My professional background is dynamic. 
 
