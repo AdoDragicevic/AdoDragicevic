@@ -1,7 +1,7 @@
-𝙄 𝙖𝙢 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙡𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙘𝙤𝙙𝙚 𝙖𝙣𝙙 𝙜𝙧𝙤𝙬𝙞𝙣𝙜 𝙖𝙨 𝙖 𝙙𝙚𝙫𝙚𝙡𝙤𝙥𝙚𝙧.
+𝙄 𝙖𝙢 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙡𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙬𝙧𝙞𝙩𝙞𝙣𝙜 𝙘𝙤𝙙𝙚.
 
-👉 Specialized in Frontend | Design experie | Basic Backend experience | EU Citizen
 
+I am specilaized JS, TS, React and CSS. I emphasize writing clean code and becoming a better developer with every project I work on. Besides trying to write code that can be easily understood and scaled, I focus on performance improvements and Big O notation. 
 
 My professional background is dynamic. 
 
@@ -11,8 +11,6 @@ However, there was a problem. I was never interested in law. Not wanting to spen
 
 IT has always been close to my heart, that is part of the reason I specialized in the areas of law mentioned above. I made a few websites in Wordpress during Uni, and played with HTML, CSS and JS since 2015. It was a hobby I never left, and that I dedicated increasing amounts of time on as years passed. I remember learning about prototypal inheritance in JS, I would code until 4AM, dream about classes and optimizations, and wake up at 7 to continue working on personal projects. 
 
-In 2020 I made the big change. My parents wanted to kill me! However, it was one of the best decisions in my life and I never looked back. I started working as a web developer / designer. After spending years with vanilla JS, learning a library like React.js came very easy to me. After workig with hooks I fell in love with the approach react chose, and decided to specialize in frontend. 
-
-I am specilaized JS, TS, React and CSS. I emphasize writing clean code and becoming a better developer with every project I work on. Besides trying to write code that can be easily understood and scaled, I focus on performance improvements and Big O notation.  
+In 2020 I made the big change. My parents wanted to kill me! However, it was one of the best decisions in my life and I never looked back. In 2020 I started working as a web developer / designer. After spending years before with vanilla JS, learning a library like React.js came very easy to me. After workig with hooks I fell in love with the approach react chose, and decided to specialize in frontend.  
 
 I am extremelly happy to be working in an area I love and feel passionate about.
