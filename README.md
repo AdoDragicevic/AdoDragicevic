@@ -1,7 +1,7 @@
 𝙥𝙖𝙨𝙨𝙞𝙤𝙣𝙖𝙩𝙚 𝙖𝙗𝙤𝙪𝙩 𝙜𝙧𝙚𝙖𝙩 𝙘𝙤𝙙𝙚
 
 
-I am specilaized in frontend development (JS, TS, React and CSS) and have experience with web design. I focus on clean code, performance, UX, and improving myself with every project I undertake. 
+I am specilaized in frontend development (JS, TS, React and CSS) and have experience with web design. I focus on clean code, performance, UX, and improving myself with every project. 
 
 My professional background is dynamic... 
 
