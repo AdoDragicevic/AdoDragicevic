@@ -5,12 +5,12 @@ I am specilaized in frontend development (JS, TS, React and CSS) and have experi
 
 My professional background is dynamic... 
 
-After graduating with Masters Degree in Law, I specialized in Data Protection and Cyber-Security. My career advanced exceptionally well, including being appointed as the Data Protection Officer, and working in the European Commission (Brussels). 
+After graduating with Masters Degree in Law, I specialized in Data Protection and Cyber-Security. My career advanced exceptionally well, including working as the Data Protection Officer, and working for the European Union (European Commission; Brussels).
 
-However, here was a problem. I was never interested in law. Not wanting to spend 40 years, 8 h/day, working in an area I'm not passionate about, I decided to change. 
+However, I was never fully interested in law. Not wanting to spend 40 years, 8 h/day, working in an area I'm not passionate about, I decided to change. 
 
-IT was always close to my heart. That was the reason I specialized in the legal areas mentioned above. I made a few websites in WP during Uni, and played with HTML, CSS and JS since 2015. It was a hobby I dedicated increasing amounts of time to. I remember learning about prototypal inheritance in JS, coding until 4AM, dreaming about optimizations, and waking up at 7 to continue refactoring my code. Then it dawned on me, "This doesn't make sense. This isn't a hoby, I should make this my career."
+IT was always close to my heart. That's the reason I specialized in the legal areas mentioned above. I made a few websites during Uni, and played with WP, HTML, CSS and JS since 2015. It was a hobby I dedicated increasing amount of time to. I remember learning about prototypal inheritance in JS, coding until 4AM, dreaming about classes, and waking up at 7 to continue refactoring the code. Then, it dawned on me, "This doesn't make sense. This isn't a hoby, this should be my career."
 
-In 2020 I made the big change. My parents wanted to kill me! However, it is one of the best decisions in my life, and I never looked back. I started working as a web developer / designer, and decided to specialize in frontend development.
+In 2020 I made the big change. My parents wanted to kill me! However, it was one of the best decisions in my life. I never looked back. I started working as a web developer / designer, and decided to specialize in frontend.
 
-I am extremelly happy to be working in an area I actually love and where I trully enjoy what I'm doing!
+I am extremelly happy to be working in an area I actually love, and where I trully enjoy my work!
