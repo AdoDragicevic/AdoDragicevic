@@ -9,4 +9,4 @@ After graduating with Masters Degree in Law, I specialized in Data Protection an
  
 In 2020 I started working as a Web Developer / Designer. One of the best decisions in my life, and I never looked back.
 
-I am extremelly happy to work in an area I trully love, and I am continually focused on improving myself.
+I am extremelly happy to work in an area I trully love, and I am continually focused on improving my skills.
