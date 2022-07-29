@@ -5,4 +5,4 @@ I am specialized in Frontend Development (JavaScript, TypeScript, React.js and C
 
 I am extremely happy to work in an area I truly love, and I am continually focused on improving my skills.
 
-Looking forward to hearing from you! :calling: https://adodragicevic.github.io/
+Feel free to contact me! :calling: https://adodragicevic.github.io/
